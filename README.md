@@ -12,7 +12,7 @@ AIESEC Application form
   - **Test Automation**: WebUI automation, Android app automation
 - Methodologies: Agile (SCRUM, Kanban), Waterfall
 
-# Content of training to be provided to your company
+# Content of training at FB Triangle
 ## Training contents
 - **Training as a model:** 
   - ‘Training on the job’ model
