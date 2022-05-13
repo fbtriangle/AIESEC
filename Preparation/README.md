@@ -63,7 +63,7 @@ Create a client-server application, the main function is to show a cities weathe
 
 ## **Checklist**
 
-|**Component**|**Task**|**Description**|**OK?**|
+|**Component**|**Task**|**Description**|**Accepted (Y/N)**|
 | :-: | :-: | :-: | :-: |
 |Backend|Create project structure|Create a new Java EE application project in your favorite IDE and configure it.|--|
 |Backend|Build and deploy project|Build and run the empty project on a J2EE container server.|--|
