@@ -412,13 +412,13 @@ Solution: ?
 Question:
 Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically. 
 Suppose the following input is supplied to the program:
-New to Python or choosing between Python 2 and Python 3? Read Python 2 or Python 3.
+New to JS? Read JS.
 Then, the output should be:
 2:2
 3.:1
 3?:1
 New:1
-Python:5
+JS:5
 Read:1
 and:1
 between:1
@@ -450,13 +450,11 @@ Solution: ?
 
 Question:
 
-Python has many built-in functions, and if you do not know how to use it, you can read document online or find some books. But Python has a built-in document function for every built-in functions.
-
-Please write a program to print some Python built-in functions documents, such as abs(), int(), raw_input()
+JS has many built-in functions, and if you do not know how to use it, you can read document online or find some books. But JS has a built-in document function for every built-in functions.Please write a program to print some JS built-in functions documents
 
 And add document for your own function
 Hints:
-The built-in document method is __doc__
+The built-in document method is __doc__ (similar in Python)
 
 Solution: ?
 
@@ -468,7 +466,7 @@ Question:
 Define a class, which have a class parameter and have a same instance parameter.
 
 Hints:
-Define a instance parameter, need add it in __init__ method
+Define a instance parameter, need add it in __init__ method  (similar in Python)
 You can init a object with construct parameter or set the value later
 
 Solution: ?
@@ -958,7 +956,7 @@ Solution: ?
 
 ### Question 63
 
-Write a special comment to indicate a Python source code file is in unicode.
+Write a special comment to indicate a JS source code file is in unicode.
 
 Hints:
 
@@ -1011,7 +1009,7 @@ Then, the output of the program should be:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
 Hints:
-We can define recursive function in Python.
+We can define recursive function in JS.
 
 Solution: ?
 
@@ -1039,7 +1037,7 @@ Then, the output of the program should be:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
 Hints:
-We can define recursive function in Python.
+We can define recursive function in JS.
 
 
 Solution: ?
@@ -1067,7 +1065,7 @@ Then, the output of the program should be:
 
 
 Hints:
-We can define recursive function in Python.
+We can define recursive function in JS.
 Use list comprehension to generate a list from an existing list.
 Use string.join() to join a list of strings.
 
@@ -1175,7 +1173,7 @@ Solution: ?
 ----
 
 ### Question 74
-Please generate a random float where the value is between 10 and 100 using Python math module.
+Please generate a random float where the value is between 10 and 100 using JS math module.
 
 Hints:
 Use random.random() to generate a random float in [0,1].
@@ -1186,7 +1184,7 @@ Solution: ?
 
 
 ### Question 75
-Please generate a random float where the value is between 5 and 95 using Python math module.
+Please generate a random float where the value is between 5 and 95 using JS module.
 
 Hints:
 Use random.random() to generate a random float in [0,1].
